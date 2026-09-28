@@ -1,0 +1,5 @@
+Evaluation,Stacking Accuracy,Stacking F1,Stacking AUC
+Published Paper,0.9853,0.9861,0.988
+Part 1 Random-Split Reproduction,1.0,1.0,1.0
+Part 2 Leakage-Safe Holdout,0.819672131147541,0.8307692307692308,0.8852813852813852
+Part 2 Leakage-Safe Repeated CV,0.8297595628415302,0.8483330233599566,0.9038655403238737

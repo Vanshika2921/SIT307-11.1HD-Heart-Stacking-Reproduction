@@ -1,0 +1,15 @@
+# Exact versions confirmed (by clean-environment re-execution) to reproduce
+# every results CSV and the figure in this repository byte-for-byte.
+# Tested on Python 3.11.16.
+
+pandas==3.0.6
+numpy==2.4.6
+scikit-learn==1.9.1
+xgboost==3.2.0
+matplotlib==3.11.2
+
+# Needed to open/run the notebook itself (version not critical for the
+# numerical results, only for executing the .ipynb):
+notebook==7.6.3
+ipykernel==7.3.0
+nbconvert==7.17.1
